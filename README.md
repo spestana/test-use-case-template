@@ -7,5 +7,4 @@
 [![Open in Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geo-smart/use_case_template)
 
 
-This repository stores a skeleton of a GeoSMART use case book.<br>
-Click on "use this template" to get started.
+
